@@ -142,6 +142,12 @@ sys.thermal.data.path=/data/vendor/thermal/
 # Sensors
 persist.vendor.sensors.enable.mag_filter=true
 
+# Spark-OS
+ro.spark.device.name=Miatoll
+ro.spark.group.url=https://t.me/SparkOSMiatoll
+ro.spark.maintainer=popoASM
+ro.spark.maintainer.username=popoASM
+
 # Storage.xml moment
 persist.sys.binary_xml=false
 
