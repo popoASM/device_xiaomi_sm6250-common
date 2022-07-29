@@ -140,3 +140,9 @@ persist.vendor.sensors.enable.mag_filter=true
 # WFD
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+# Havoc specific props
+ro.havoc.device.name=Xiaomi Redmi Note 9(S/Pro/ProMax)/Poco M2 Pro
+ro.havoc.group.url=https://t.me/popoASMdiscussion
+ro.havoc.maintainer=popoASM
+ro.havoc.maintainer.username=popoASM
