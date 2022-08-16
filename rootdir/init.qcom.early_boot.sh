@@ -35,3 +35,5 @@ if [ "$boot_reason" = "3" ] || [ "$reboot_reason" = "true" ]; then
 else
     setprop ro.vendor.alarm_boot false
 fi
+
+pm disable com.google.android.gms/.chimera.GmsIntentOperationService
